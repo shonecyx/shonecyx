@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Service Mesh/Istio/Software Loadbalance.
+- 🔭 I’m currently working on Service Mesh/Istio/Software Loadbalancer, supporting 300k+ sidecars and 1Tb/s+ throughput on Istio.
 - 🌱 I’m currently learning addressing mesh scalability/reliability issues and next gen traffic management.
 
 <!--
