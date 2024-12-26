@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Service Mesh/Istio/Software Loadbalance.
+- 🌱 I’m currently learning addressing mesh scalability/reliability issues and next gen traffic management.
+
 <!--
 **shonecyx/shonecyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
